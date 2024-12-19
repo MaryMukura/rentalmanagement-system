@@ -1,6 +1,6 @@
 # Rental Management System
 
-A comprehensive system for managing rental properties, tenants, and lease agreements.
+A comprehensive system for managing rental properties, tenants and lease agreements.
 
 ## Features
 - Property Management
